@@ -4,4 +4,4 @@
 
 With Lime, you will be able to setup your Discord server using Discord Modals to keep everything in Discord, for ease of use. Everything config related, done in Discord, everything moderation related, done in Discord, and so on.
 
-### Currently under development
+### Currently under development!
