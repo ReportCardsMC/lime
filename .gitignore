@@ -1,0 +1,8 @@
+# Private Files
+.env
+
+# Node Related Files
+node_modules
+pnpm-lock.yaml
+package-lock.json
+yarn.lock

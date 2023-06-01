@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "module": "CommonJS", // required
+        "target": "ESNext", // required
+        "noImplicitAny": true,
+        "sourceMap": true,
+        "strict": true,
+        "outDir": "dist",
+        "declaration": false,
+        "importHelpers": true, // required
+        "forceConsistentCasingInFileNames": true,
+        "moduleResolution": "Node", // required
+        "esModuleInterop": true, // required
+        "skipLibCheck": true // Tbh, this is just to ignore gay errors
+    },
+    "exclude": ["node_modules"],
+  }
