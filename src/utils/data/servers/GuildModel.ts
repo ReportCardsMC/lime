@@ -1,11 +1,6 @@
-import { ModelOptions, getModelForClass, prop } from "@typegoose/typegoose";
+import { ModelOptions, prop } from "@typegoose/typegoose";
 import { Trigger } from "../../common/trigger";
 import { Module } from "../../common/module";
-
-interface User {
-  id: string;
-  name: string;
-}
 
 interface GuildConfig {
   modules: {

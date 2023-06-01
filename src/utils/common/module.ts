@@ -6,4 +6,5 @@ export enum Module {
   FUN = "fun",
   STATS = "stats",
   TRIGGERS = "triggers",
+  LOGS = "logs",
 }
